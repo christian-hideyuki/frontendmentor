@@ -3,15 +3,22 @@ html {
 }
 
 body{
+<<<<<<< HEAD
     background-color: hsl(47, 88%, 63%)
 /*     margin: 0; */
 /*     padding: 0; */
+=======
+    background-color: hsl(47, 88%, 63%);
+    margin: 0;
+    padding: 0;
+>>>>>>> e2b07bd (Salva alterações locais antes de puxar do remoto)
     display: flex;
     justify-content: center; /* centraliza na horizontal*/
     align-items: center; /* centraloiza na vertical */
     min-height: 100vh; /* ocupe altura total do navegador */
 }
 .fundo{
+<<<<<<< HEAD
     background-color: hsl(47, 88%, 63%);
 /*     width: 90vh; */
 /*     max-width: 80rem; /*largura maxima */ */
@@ -22,6 +29,18 @@ body{
     justify-content: center;
 /*     box-shadow: 0.4rem 0.4rem rgba(0,0,0, 0.1); */
 /*     box-sizing: border-box; */
+=======
+    /* background-color: hsl(47, 88%, 63%); */
+    /* width: 90vh; */
+    max-width: 80rem; largura maxima
+    padding:2rem; /* espaçamento interno */
+    display: flex;
+    align-items: center;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* box-shadow: 0.4rem 0.4rem rgba(0,0,0, 0.1); */
+    /* box-sizing: border-box; */
+>>>>>>> e2b07bd (Salva alterações locais antes de puxar do remoto)
 
 }
 
@@ -98,4 +117,8 @@ body{
     width: 5rem;
     height: 5rem;
     border-radius: 100%;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e2b07bd (Salva alterações locais antes de puxar do remoto)
